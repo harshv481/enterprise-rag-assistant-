@@ -1,5 +1,10 @@
 # Enterprise RAG Assistant with Low-Latency Retrieval
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![RAG Architecture](https://img.shields.io/badge/Architecture-Hybrid%20RAG-orange?style=flat-square)](https://github.com/harshv481/enterprise-rag-assistant-)
+
 A high-performance, self-contained Python demonstration of an **Enterprise Question-Answering System** utilizing Retrieval-Augmented Generation (RAG) over internal documents with Role-Based Access Control (RBAC), Parallel Hybrid Retrieval, Cross-Scoring Re-ranking, and In-Memory Semantic Caching.
 
 ---
